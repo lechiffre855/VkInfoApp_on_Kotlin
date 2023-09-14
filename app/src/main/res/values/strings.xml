@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VkInfo(Kotlin)</string>
+    <string name="WRITE_ID">Введите ID во Вконтакте</string>
+    <string name="BUTTON_TEXT_SEARCH">Search!</string>
+    <string name="RESULT">Результат будет отображен здесь</string>
+
+    <string name="error_message">Произошла ошибка. Попробуйте позже</string>
+    <string name="UserNotExist">Пользователь с данным ID не существует.\n\nПопробуйте ввести другой ID!</string>
+</resources>
